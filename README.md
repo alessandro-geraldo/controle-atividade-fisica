@@ -2,7 +2,7 @@
 
 # Protótipo
 
-https://www.figma.com/file/a1VDbO1aNfZyulQPxT99OE/beleza-em-dia?node-id=3%3A80
+https://www.figma.com/file/z9yEJJKADvO3ndlCpazXJ1/Atividade-Fisica?node-id=3%3A7
 
 # Checklist
 
